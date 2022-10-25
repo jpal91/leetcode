@@ -37,3 +37,5 @@ Not all of my solutions are included here. The shield below tracks the running t
 |[Valid Anagram](/Python/valid-anagram.py)|[LC](https://leetcode.com/problems/valid-anagram/)||
 |[Zig-zag Conversion](/Python/zigzag-conversion.py)|[LC](https://leetcode.com/problems/zigzag-conversion/)||
 |[Maximum Number of Balloons](/Python/maximum-number-of-balloons.py)|[LC](https://leetcode.com/problems/maximum-number-of-balloons/)|[Screenshot](https://assets.leetcode.com/users/images/5a313fe0-0260-4693-a1ec-2afc40af272e_1666389742.8823123.jpeg)
+|[Merge Two Sorted Lists](/Python/merge-two-sorted-lists.py)|[LC](https://leetcode.com/problems/merge-two-sorted-lists/)|[Screenshot](/Screenshots/merge-two-sorted-lists.jpg)|
+|[Remove Linked List Elements](/Python/remove-linked-list-elements.py)|[LC](https://leetcode.com/problems/remove-linked-list-elements)|[Screenshot](/Screenshots/remove-linked-list-elements.jpg)|

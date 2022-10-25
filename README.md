@@ -36,3 +36,4 @@ Not all of my solutions are included here. The shield below tracks the running t
 |[Univalued Binary Tree](/Python/univalued-binary-tree.py)|[LC](https://leetcode.com/problems/univalued-binary-tree/)|[Screenshot](/Screenshots/univalued-binary-tree.py)|
 |[Valid Anagram](/Python/valid-anagram.py)|[LC](https://leetcode.com/problems/valid-anagram/)||
 |[Zig-zag Conversion](/Python/zigzag-conversion.py)|[LC](https://leetcode.com/problems/zigzag-conversion/)||
+|[Maximum Number of Balloons](/Python/maximum-number-of-balloons.py)|[LC](https://leetcode.com/problems/maximum-number-of-balloons/)|[Screenshot](https://assets.leetcode.com/users/images/5a313fe0-0260-4693-a1ec-2afc40af272e_1666389742.8823123.jpeg)

@@ -1,27 +1,47 @@
-# Time: O(n)
-# Space: O(n)
-# https://leetcode.com/problems/merge-strings-alternately
-
 class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:
-        
+        ptr1, ptr2 = 0, 0
         n1, n2 = len(word1), len(word2)
+        # n = max(n1, n2)
+        first = True
         res = ''
-
-        # Very simple for loop
-        # The max length of either string is determined and the for loop will stop once it reaches the max of both
-        # Alternates between both strings by just adding word1[i] first and word2[i] second
-        # Once it reaches the end of one string (if they are not the same length), it finishes up on the longer string
-
-        n = max(n1, n2)
-
-        for i in range(n):
-            if i < n1 and i < n2:
-                res += word1[i]
-                res += word2[i]
-            elif i >= n1:
-                res += word2[i]
-            elif i >= n2:
-                res += word1[i]
+        
+        while ptr1 < n1 or ptr2 < n2:
+            if ptr1 >= n1:
+                res += word2[ptr2]
+                ptr2 += 1
+            elif ptr2 >= n2:
+                res += word1[ptr1]
+                ptr1 += 1
+            elif first:
+                res += word1[ptr1]
+                ptr1 += 1
+            else:
+                res += word2[ptr2]
+                ptr2 += 1
+            
+            first = not first
         
         return res
+
+#         for i, j in zip(range(n1), range(n2)):
+#             res += word1[i]
+#             res += word2[j]
+        
+#         if n1 > n2:
+#             res += word1[i + 1:]
+#         elif n2 > n1:
+#             res += word2[j + 1:]
+        
+#         return res
+
+#         for i in range(n):
+#             if i < n1 and i < n2:
+#                 res += word1[i]
+#                 res += word2[i]
+#             elif i >= n1:
+#                 res += word2[i]
+#             elif i >= n2:
+#                 res += word1[i]
+        
+#         return res

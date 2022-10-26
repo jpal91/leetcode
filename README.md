@@ -41,3 +41,8 @@ Not all of my solutions are included here. The shield below tracks the running t
 |[Remove Linked List Elements](/Python/remove-linked-list-elements.py)|[LC](https://leetcode.com/problems/remove-linked-list-elements)|[Screenshot](/Screenshots/remove-linked-list-elements.jpg)|
 |[Valid Parentheses](/Python/valid-parentheses.py)|[LC](https://leetcode.com/problems/valid-parentheses/)|[Screenshot](/Screenshots/valid-parentheses.jpg)|
 |[Merge Strings Alternately](/Python/merge-strings-alternately.py)|[LC](https://leetcode.com/problems/merge-strings-alternately)|[Screenshot](/Screenshots/merge-strings-alternately.jpg)|
+|[Merge Strings Alternately](/Python/merge-strings-alternately.py)|[LC](https://leetcode.com/submissions/detail/830240002/)||
+|[First Unique Character in a String](/Python/first-unique-character.py)|[LC](https://leetcode.com/submissions/detail/830038320/)||
+|[Reverse Linked List](/Python/reverse-linked-list.py)|[LC](https://leetcode.com/submissions/detail/830221570/)||
+|[Linked List Cycle](/Python/linked-list-cycle.py)|[LC](https://leetcode.com/submissions/detail/830160081/)||
+|[Valid Sudoku](/Python/valid-sudoku.py)|[LC](https://leetcode.com/submissions/detail/830021528/)||

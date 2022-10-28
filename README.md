@@ -41,3 +41,6 @@ Not all of my solutions are included here. The shield below tracks the running t
 |[Remove Linked List Elements](/Python/remove-linked-list-elements.py)|[LC](https://leetcode.com/problems/remove-linked-list-elements)|[Screenshot](/Screenshots/remove-linked-list-elements.jpg)|
 |[Valid Parentheses](/Python/valid-parentheses.py)|[LC](https://leetcode.com/problems/valid-parentheses/)|[Screenshot](/Screenshots/valid-parentheses.jpg)|
 |[Merge Strings Alternately](/Python/merge-strings-alternately.py)|[LC](https://leetcode.com/problems/merge-strings-alternately)|[Screenshot](/Screenshots/merge-strings-alternately.jpg)|
+|[Find Leaves of Binary Tree](/Python/find-leaves-of-binary.py)|[LC](https://leetcode.com/problems/find-leaves-of-binary-tree)||
+|[Employee Importance](/Python/employee-importance.py)|[LC](https://leetcode.com/problems/employee-importance)||
+|[Shortest Word Distance II](/Python/shortest-word-distance-ii.py)|[LC](https://leetcode.com/problems/shortest-word-distance-ii)|[Screenshot](/Screenshots/shortest-word-distance-ii.jpg)|

@@ -44,3 +44,6 @@ Not all of my solutions are included here. The shield below tracks the running t
 |[Find Leaves of Binary Tree](/Python/find-leaves-of-binary.py)|[LC](https://leetcode.com/problems/find-leaves-of-binary-tree)||
 |[Employee Importance](/Python/employee-importance.py)|[LC](https://leetcode.com/problems/employee-importance)||
 |[Shortest Word Distance II](/Python/shortest-word-distance-ii.py)|[LC](https://leetcode.com/problems/shortest-word-distance-ii)|[Screenshot](/Screenshots/shortest-word-distance-ii.jpg)|
+|[Maximize Sum Of Array After K Negations](/Python/maximize-sum-of-array.py)|[LC](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations)||
+|[Time Needed to Buy Tickets](/Python/time-needed-to-buy.py)|[LC](https://leetcode.com/problems/time-needed-to-buy-tickets)||
+|[Minimum Amount of Time to Fill Cups](/Python/minimum-amount-of-time.py)|[LC](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups)||

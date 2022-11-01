@@ -47,3 +47,8 @@ Not all of my solutions are included here. The shield below tracks the running t
 |[Maximize Sum Of Array After K Negations](/Python/maximize-sum-of-array.py)|[LC](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations)||
 |[Time Needed to Buy Tickets](/Python/time-needed-to-buy.py)|[LC](https://leetcode.com/problems/time-needed-to-buy-tickets)||
 |[Minimum Amount of Time to Fill Cups](/Python/minimum-amount-of-time.py)|[LC](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups)||
+|[Merge Strings Alternately](/Python/merge-strings-alternately.py)|[LC](https://leetcode.com/submissions/detail/830240002/)||
+|[First Unique Character in a String](/Python/first-unique-character.py)|[LC](https://leetcode.com/submissions/detail/830038320/)||
+|[Reverse Linked List](/Python/reverse-linked-list.py)|[LC](https://leetcode.com/submissions/detail/830221570/)||
+|[Linked List Cycle](/Python/linked-list-cycle.py)|[LC](https://leetcode.com/submissions/detail/830160081/)||
+|[Valid Sudoku](/Python/valid-sudoku.py)|[LC](https://leetcode.com/submissions/detail/830021528/)||

@@ -4,25 +4,22 @@
 
 class Solution:
     def maxNumberOfBalloons(self, text: str) -> int:
+        # Initialize the target (balloon) and a counter that will count up all letters
+        # within the text that are also letters of balloon
         b = 'balloon'
-        # Create a Counter which will loop over the text once and only take letters in 'balloon'
         count = Counter([t for t in text if t in b])
         n, i, poss = len(b), 0, 0
         
-        # Loops over the 'balloon' string and decrements the letter at the index i
+        # Loop over 'balloon', each time taking out 1 target letter from the counter
+        # If there are no more letters at the index i, we can't finish the word balloon, so immediately break
+        # Once i reaches the end of 'balloon', we know that we've spelled it out at least one more time so increment poss variable by 1
         while count:
-            # If we get to a letter and the count is 0, we know we cannot finish the word, so break
             if count[b[i]] == 0:
                 break
             else:
-                # If there are still letters available for the letter at this index i, decrease it by 1 and
-                # move to the next letter
                 count[b[i]] -= 1
                 i += 1
             
-            # Once we've reached the end of the string, we know we're able to spell balloon at least one more time
-            # Increase the possible maximum possible by 1 and start over at the beginning
-
             if i == n:
                 i = 0
                 poss += 1

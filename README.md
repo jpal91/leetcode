@@ -51,3 +51,5 @@ Not all of my solutions are included here. The shield below tracks the running t
 |[Reverse Linked List](/Python/reverse-linked-list.py)|[LC](https://leetcode.com/submissions/detail/830221570/)||
 |[Linked List Cycle](/Python/linked-list-cycle.py)|[LC](https://leetcode.com/submissions/detail/830160081/)||
 |[Valid Sudoku](/Python/valid-sudoku.py)|[LC](https://leetcode.com/submissions/detail/830021528/)||
+|[Maximum Number of Balloons](/Python/maximum-number-of-balloons.py)|[LC](https://leetcode.com/problems/maximum-number-of-balloons/)|[Screenshot](/Screenshots/maximum-number-of-balloons.JPG)|
+|[Meeting Rooms](/Python/meeting-rooms.py)|[LC](https://leetcode.com/problems/meeting-rooms/)||

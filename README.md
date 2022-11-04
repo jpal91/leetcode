@@ -53,3 +53,8 @@ Not all of my solutions are included here. The shield below tracks the running t
 |[Valid Sudoku](/Python/valid-sudoku.py)|[LC](https://leetcode.com/submissions/detail/830021528/)||
 |[Maximum Number of Balloons](/Python/maximum-number-of-balloons.py)|[LC](https://leetcode.com/problems/maximum-number-of-balloons/)|[Screenshot](/Screenshots/maximum-number-of-balloons.JPG)|
 |[Meeting Rooms](/Python/meeting-rooms.py)|[LC](https://leetcode.com/problems/meeting-rooms/)||
+|[Range Sum Query 2D - Immutable](/Python/range-sum-query-2d--.py)|[LC](https://leetcode.com/problems/range-sum-query-2d---immutable)||
+|[Design File System](/Python/design-file-system.py)|[LC](https://leetcode.com/problems/design-file-system)||
+|[Design Front Middle Back Queue](/Python/design-front-middle-back.py)|[LC](https://leetcode.com/problems/design-front-middle-back-queue)||
+|[Map Sum Pairs](/Python/map-sum-pairs.py)|[LC](https://leetcode.com/problems/map-sum-pairs)|[Screenshot](/Screenshots/map-sum-pairs.JPG)|
+|[Design A Leaderboard](/Python/design-a-leaderboard.py)|[LC](https://leetcode.com/problems/design-a-leaderboard)|[Screenshot](/Screenshots/design-a-leaderboard.JPG)|

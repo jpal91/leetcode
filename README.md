@@ -58,3 +58,10 @@ Not all of my solutions are included here. The shield below tracks the running t
 |[Design Front Middle Back Queue](/Python/design-front-middle-back.py)|[LC](https://leetcode.com/problems/design-front-middle-back-queue)||
 |[Map Sum Pairs](/Python/map-sum-pairs.py)|[LC](https://leetcode.com/problems/map-sum-pairs)|[Screenshot](/Screenshots/map-sum-pairs.JPG)|
 |[Design A Leaderboard](/Python/design-a-leaderboard.py)|[LC](https://leetcode.com/problems/design-a-leaderboard)|[Screenshot](/Screenshots/design-a-leaderboard.JPG)|
+
+***
+
+## SQL
+
+| Solution | LC Link | Screenshot |
+|----------|---------|------------|

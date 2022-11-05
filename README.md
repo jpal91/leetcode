@@ -65,5 +65,20 @@ Not all of my solutions are included here. The shield below tracks the running t
 
 | Solution | LC Link | Screenshot |
 |----------|---------|------------|
+|[Number of Accounts That Did Not Stream](/SQL/number-of-accounts-that.sql)|[LC](https://leetcode.com/problems/number-of-accounts-that-did-not-stream)||
+|[Second Highest Salary](/SQL/second-highest-salary.sql)|[LC](https://leetcode.com/problems/second-highest-salary)||
+|[Number of Unique Subjects Taught by Each Teacher](/SQL/number-of-unique.sql)|[LC](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher)||
+|[Ad-Free Sessions](/SQL/ad-free-sessions.sql)|[LC](https://leetcode.com/problems/ad-free-sessions)||
+|[Primary Department for Each Employee](/SQL/primary-department-for.sql)|[LC](https://leetcode.com/problems/primary-department-for-each-employee)||
+|[Product's Price for Each Store](/SQL/product's-price-for-each.sql)|[LC](https://leetcode.com/problems/product's-price-for-each-store)||
+|[Find Total Time Spent by Each Employee](/SQL/find-total-time-spent-by.sql)|[LC](https://leetcode.com/problems/find-total-time-spent-by-each-employee)||
+|[The Number of Employees Which Report to Each Employee](/SQL/the-number-of-employees.sql)|[LC](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee)||
+|[Find Followers Count](/SQL/find-followers-count.sql)|[LC](https://leetcode.com/problems/find-followers-count)||
+|[Daily Leads and Partners](/SQL/daily-leads-and-partners.sql)|[LC](https://leetcode.com/problems/daily-leads-and-partners)||
+|[Product's Worth Over Invoices](/SQL/product's-worth-over.sql)|[LC](https://leetcode.com/problems/product's-worth-over-invoices)||
+|[Average Time of Process per Machine](/SQL/average-time-of-process.sql)|[LC](https://leetcode.com/problems/average-time-of-process-per-machine)||
+|[Percentage of Users Attended a Contest](/SQL/percentage-of-users.sql)|[LC](https://leetcode.com/problems/percentage-of-users-attended-a-contest)||
+|[All Valid Triplets That Can Represent a Country](/SQL/all-valid-triplets-that.sql)|[LC](https://leetcode.com/problems/all-valid-triplets-that-can-represent-a-country)||
+|[Sellers With No Sales](/SQL/sellers-with-no-sales.sql)|[LC](https://leetcode.com/problems/sellers-with-no-sales)||
 
 ***

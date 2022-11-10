@@ -65,6 +65,12 @@ Not all of my solutions are included here. The shield below tracks the running t
 |[Design Front Middle Back Queue](/Python/design-front-middle-back.py)|[LC](https://leetcode.com/problems/design-front-middle-back-queue)||
 |[Map Sum Pairs](/Python/map-sum-pairs.py)|[LC](https://leetcode.com/problems/map-sum-pairs)|[Screenshot](/Screenshots/map-sum-pairs.JPG)|
 |[Design A Leaderboard](/Python/design-a-leaderboard.py)|[LC](https://leetcode.com/problems/design-a-leaderboard)|[Screenshot](/Screenshots/design-a-leaderboard.JPG)|
+|[Unique Word Abbreviation](/Python/unique-word-abbreviation.py)|[LC](https://leetcode.com/problems/unique-word-abbreviation)|[Screenshot](/Screenshots/unique-word-abbreviation.JPG)|
+|[Merge k Sorted Lists](/Python/merge-k-sorted-lists.py)|[LC](https://leetcode.com/problems/merge-k-sorted-lists)|[Screenshot](/Screenshots/merge-k-sorted-lists.jpg)|
+|[Validate Binary Search Tree](/Python/validate-binary-search.py)|[LC](https://leetcode.com/problems/validate-binary-search-tree)|[Screenshot](/Screenshots/validate-binary-search-tree.jpg)|
+|[Same Tree](/Python/same-tree.py)|[LC](https://leetcode.com/problems/same-tree)|[Screenshot](/Screenshots/same-tree.jpg)|
+|[Number of Islands](/Python/number-of-islands.py)|[LC](https://leetcode.com/problems/number-of-islands)||
+|[Remove All Adjacent Duplicates In String](/Python/remove-all-adjacent.py)|[LC](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|[Screenshot](/Screenshots/remove-all-adjacent-duplicates.JPG)|
 
 ***
 

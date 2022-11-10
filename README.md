@@ -93,5 +93,6 @@ Not all of my solutions are included here. The shield below tracks the running t
 |[Percentage of Users Attended a Contest](/SQL/percentage-of-users.sql)|[LC](https://leetcode.com/problems/percentage-of-users-attended-a-contest)||
 |[All Valid Triplets That Can Represent a Country](/SQL/all-valid-triplets-that.sql)|[LC](https://leetcode.com/problems/all-valid-triplets-that-can-represent-a-country)||
 |[Sellers With No Sales](/SQL/sellers-with-no-sales.sql)|[LC](https://leetcode.com/problems/sellers-with-no-sales)||
+|[Market Analysis I](/SQL/market-analysis-i.sql)|[LC](https://leetcode.com/problems/market-analysis-i)||
 
 ***
